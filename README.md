@@ -1,1 +1,1 @@
-# Python-project-1
+Created a To-Do List Application in Python. This application will allow users to add tasks, mark tasks as completed, update task descriptions, and remove tasks from the list. I had choosen to implement a graphical user interface (GUI) 
